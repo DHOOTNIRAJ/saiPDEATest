@@ -1,0 +1,7 @@
+Started by user [8mha:////4NiUKq02LA8v9vfLXdcmQTkxHyjMbF1PrYEr+OXmYOEoAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/achanna_sai_test
+[achanna_sai_test] $ /bin/sh -xe /tmp/jenkins562953248658345164.sh
++ cp /usr/achanna_sai_devops_git_23012025_V_2.1_D/achanna_devops_sr_dev_first.jar /usr/achanna_sai_devops_jenkins_v_2.1/achanna_devops_sr_dev_first.jar
++ date
+Finished: SUCCESS
